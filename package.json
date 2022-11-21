@@ -1,0 +1,26 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jlabianca01/Assignment-4.git"
+  },
+  "keywords": [
+    "assignment4"
+  ],
+  "author": "Joe LaBianca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jlabianca01/Assignment-4/issues"
+  },
+  "homepage": "https://github.com/Jlabianca01/Assignment-4#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.12.0"
+  }
+}
